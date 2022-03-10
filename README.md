@@ -2,7 +2,7 @@
 https://public.tableau.com/app/profile/h2772/viz/Citi-Bike_Mar21-Feb22casualvsmember/Story1?publish=yes
 
 ## Phenomenon #1
-#New Jersey customers leaving bikes in the city
+# New Jersey customers leaving bikes in the city
 Both New Jersey member and casual riders are starting their rides in New Jersey. Most riders return back to New Jersey, while others do not return to New Jersey, or take alternative transportation home. We see this when looking at the start and end side by side maps. You can see both casual and member riders ending their rides all across New York.
 
 ## Phenomenon #2
